@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/decentra_zoo-master/static/css/main.73bd2930.css",
+    "main.js": "/decentra_zoo-master/static/js/main.b86e56a6.js",
+    "static/media/Decentra_zoo_capybaras.png": "/decentra_zoo-master/static/media/Decentra_zoo_capybaras.48bff7c7c69881671294.png",
+    "static/media/ostriches.png": "/decentra_zoo-master/static/media/ostriches.ff8aca1422f6340512fb.png",
+    "static/media/dc_zoo_background.jpg": "/decentra_zoo-master/static/media/dc_zoo_background.da0e0fd10bcfaf44ecab.jpg",
+    "static/media/Decentra_zoo_oregon_zoo.jpg": "/decentra_zoo-master/static/media/Decentra_zoo_oregon_zoo.d6d3b530426b8172221e.jpg",
+    "static/media/Decentra_zoo_Screenshot_1.jpg": "/decentra_zoo-master/static/media/Decentra_zoo_Screenshot_1.b4b9034b189bb156d2a4.jpg",
+    "static/media/Building_in_decentrazoo_2.jpg": "/decentra_zoo-master/static/media/Building_in_decentrazoo_2.5a80d35425dc4e541b09.jpg",
+    "static/media/panda_elephant_exhibit.jpg": "/decentra_zoo-master/static/media/panda_elephant_exhibit.7444b3b30bff32462c19.jpg",
+    "static/media/DZ_currency_logo_ver_2.png": "/decentra_zoo-master/static/media/DZ_currency_logo_ver_2.be9cfb4f418aee528213.png",
+    "static/media/Decentra_zoo_Screenshot_2.jpg": "/decentra_zoo-master/static/media/Decentra_zoo_Screenshot_2.1a67ee262e73c4a70f17.jpg",
+    "static/media/Building_in_decentrazoo.jpg": "/decentra_zoo-master/static/media/Building_in_decentrazoo.7ddf53f4907f1c6175ec.jpg",
+    "static/media/Decentra_zoo_dancing_minigame.jpg": "/decentra_zoo-master/static/media/Decentra_zoo_dancing_minigame.9273fb6024698ee13160.jpg",
+    "static/media/Decentra_zoo_marketplace.jpg": "/decentra_zoo-master/static/media/Decentra_zoo_marketplace.88a0accae7ce74fc1802.jpg",
+    "static/media/Decentra_zoo_map.jpg": "/decentra_zoo-master/static/media/Decentra_zoo_map.e6510488a576436f754e.jpg",
+    "static/media/DecentraZoo_logo_Transparent.png": "/decentra_zoo-master/static/media/DecentraZoo_logo_Transparent.7812ecc8be5b58090e99.png",
+    "static/media/Decentra_zoo_Screenshot_3.jpg": "/decentra_zoo-master/static/media/Decentra_zoo_Screenshot_3.6e3e9f9d43a7472a9817.jpg",
+    "static/media/Coin_graph.png": "/decentra_zoo-master/static/media/Coin_graph.caa4e970777c9353839b.png",
+    "static/media/Publishing_on_decentra_zoo.jpg": "/decentra_zoo-master/static/media/Publishing_on_decentra_zoo.126cff821a87fa753a11.jpg",
+    "static/media/temp.webp": "/decentra_zoo-master/static/media/temp.83c416167d6dcc4b16ed.webp",
+    "index.html": "/decentra_zoo-master/index.html",
+    "main.73bd2930.css.map": "/decentra_zoo-master/static/css/main.73bd2930.css.map",
+    "main.b86e56a6.js.map": "/decentra_zoo-master/static/js/main.b86e56a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73bd2930.css",
+    "static/js/main.b86e56a6.js"
+  ]
+}
